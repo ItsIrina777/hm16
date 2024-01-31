@@ -3,10 +3,11 @@
     height: 600px;
     background-color: green;
     background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),
+    url(./lamp-png-34914.png),
+    url(./green-png-44873.png),
     url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/Ёжик.png/revision/latest?cb=20180209130328&path-prefix=ru),
-    url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png),
-    url(https://www.freeiconspng.com/img/34914);
-    background-repeat: no-repeat, repeat-y, repeat-y, repeat-x;
-    background-size: 500px, 40px, 40px, 100px;
-    background-position: center, left, right, top;
+    url(./58eb07b830eab15b56162788.png);
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 500px, 50px, 150px, 40px, 40px;
+    background-position: center, top, bottom, left, right;
 }
